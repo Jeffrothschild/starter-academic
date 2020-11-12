@@ -25,7 +25,7 @@ role: PhD candidate in exercise physiology
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:jrothsch@aut.ac.nz'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.au/citations?hl=en&user=r4c-6_kAAAAJ

@@ -88,34 +88,34 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "jrothsch@aut.ac.nz"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "", city = "Auckland", region = "New Zealand", postcode = "", country = "New Zealand", country_code = "nz"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+#coordinates = {latitude = "-36.741561", longitude = "174.733436"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = []
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://meetme.so/Eatsleepfit1"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+{icon = "twitter", icon_pack = "fab", name = "Follow me on Twitter", link = "https://twitter.com/EatsleepfitJeff"},
+# {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+#  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -123,24 +123,25 @@ contact_links = [
 ## Social
 ############################
 
-# Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+sharing_image = "Headshot"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "EatsleepfitJeff"
 
 ############################
 ## Regional Settings
 ############################
 
-# Date and time format (refer to https://wowchemy.com/docs/customization/#date-format )
+# Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
-# Address format (en-us, en-gb, de, fr-fr, zh).
+# Address format (choose from the [address_formats] list below or add you own to the list).
 address_format = "en-us"
+
 
 ############################
 ## Advanced
@@ -262,7 +263,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
   zoom = 15
 
@@ -272,7 +273,6 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-
 ############################
 ## Content Management System
 ############################

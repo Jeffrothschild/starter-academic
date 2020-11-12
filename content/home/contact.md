@@ -8,6 +8,7 @@ weight = 130  # Order that this section will appear.
 title = "Contact"
 subtitle = ""
 
+
 # Automatically link email and phone?
 autolink = true
 
@@ -17,8 +18,6 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 
-# Netlify form settings.
-[netlify]
-  captcha = false  # Enable CAPTCHA challenge to reduce spam?
+
 +++
 

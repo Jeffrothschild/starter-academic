@@ -6,7 +6,7 @@ authors:
 - AE Kilding
 - DJ Plews
 date: "2020-11-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/nu12113473"
 featured: True
 image:
   caption: ""

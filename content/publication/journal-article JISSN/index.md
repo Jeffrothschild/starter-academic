@@ -17,7 +17,7 @@ authors:
 - JA Rothschild
 - GH Crocker
 date: "2020-11-01T00:00:00Z"
-doi: "doi.org/10.1186/s12970-020-00392-3"
+doi: "10.1186/s12970-020-00392-3"
 featured: true
 image:
   caption: ""

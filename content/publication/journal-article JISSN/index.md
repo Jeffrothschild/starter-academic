@@ -16,7 +16,7 @@ authors:
 - MA Bestard
 - JA Rothschild
 - GH Crocker
-date: "2020-11-01T00:00:00Z"
+date: "2020-12-08T00:00:00Z"
 doi: "10.1186/s12970-020-00392-3"
 featured: true
 image:
@@ -28,7 +28,7 @@ publication: "*Journal of the International Society of Sports Nutrition*"
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-11-01T00:00:00Z"
+publishDate: "2020-12-08T00:00:00Z"
 slides: ""
 summary: The aim of this study was to determine the influence of three days of high- and low-carbohydrate diets on the energetic cost of submaximal swimming. 
 tags:

@@ -44,7 +44,7 @@ This way, we can isolate the effects of the various pre-exercise nutrition choic
 
 Beyond the prescribed sessions, we also allow up to four additional hours of low-intensity training per week (these can also be runs or swims).
 
-I appreciate that this study will require a big commitment and know that participants will get a lot from it. The training program is designed to make you fitter over the 3-week period, which will be measured pre- and post-training with VO2max (a measure of your overall aerobic capacity), 30-min time-trial power, and muscle biopsy (which will show us how things inside your muscle respond to the training). We are also interested in seeing how things like fat oxidation and your ventilatory thresholds are influenced by what you eat.
+I appreciate that this study will require a big commitment and know that participants will get a lot from it. **The training program is designed to make you fitter over the 3-week period**, which will be measured pre- and post-training with VO2max (a measure of your overall aerobic capacity), 30-min time-trial power, and muscle biopsy (which will show us how things inside your muscle respond to the training). We are also interested in seeing how things like fat oxidation and your ventilatory thresholds are influenced by what you eat.
 
 To be eligible you’d need to be a male cyclist or triathlete, between 18-55 years old and currently training 8-12 hours per week (we do have two other studies currently going at AUT looking for women).
 

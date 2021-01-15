@@ -31,10 +31,10 @@ During the 3-week block of high-intensity training, you will be randomly assigne
 
 **The study is six weeks in total, which includes 16 visits to AUT Millennium.**
 
-Week 1 (pre-testing): Two visits (VO2max test and time-trial)<br>
-Week 2 (pre-testing): Two visits (Muscle biopsy and time-trial)<br>
-Weeks 3-5 (training block): Three interval training sessions per week for three weeks<br>
-Week 6 (post-testing): Three visits (VO2max test, muscle biopsy, and time-trial)<br>
+**Week 1 (pre-testing)**: Two visits (VO2max test and time-trial)<br>
+**Week 2 (pre-testing)**: Two visits (Muscle biopsy and time-trial)<br>
+**Weeks 3-5 (training block)**: Three interval training sessions per week for three weeks<br>
+**Week 6 (post-testing)**: Three visits (VO2max test, muscle biopsy, and time-trial)<br>
 
 All food eaten prior to exercise sessions will be provided for the entire study period.
 

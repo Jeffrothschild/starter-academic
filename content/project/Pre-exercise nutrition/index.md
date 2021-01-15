@@ -21,18 +21,18 @@ url_slides: ""
 url_video: ""
 ---
 
-**What is the best food to eat before training?**
+**What should I eat before training?**
 
-We are looking for cyclists to perform interval training in the lab at AUT Millennium on Auckland's north shore for 3 weeks, in order to better understand how what you eat before interval training sessions affects the adaptations to endurance training.
+To study what cyclists should eat before interval training sessions, and how it affects their training adaptations, we are looking for cyclists to participate in a study at AUT Millennium on Auckland's north shore!
 
 There is surprisingly little research in trained cyclists looking at things like fed vs. fasted training and how that affects your training adaptations.
 
 The study is six weeks in total, which includes 16 visits to AUT Millennium.
 
-Week 1 (pre-testing): Two visits (VO2max test and time-trial)
-Week 2 (pre-testing): Two visits (Muscle biopsy and time-trial)
-Weeks 3-5 (training block): Three visits per week (3 interval training sessions)
-Week 6 (post-testing): Three visits (VO2max test, muscle biopsy, and time-trial)
+Week 1 (pre-testing): Two visits (VO2max test and time-trial)<br>
+Week 2 (pre-testing): Two visits (Muscle biopsy and time-trial)<br>
+Weeks 3-5 (training block): Three visits per week (3 interval training sessions)<br>
+Week 6 (post-testing): Three visits (VO2max test, muscle biopsy, and time-trial)<br>
 
 All food eaten prior to exercise sessions will be provided for the entire study period.
 
@@ -42,13 +42,13 @@ You will also have three prescribed low-intensity training sessions per week, wh
 
 This way, we can isolate the effects of the various pre-exercise nutrition choices on interval training, but in the context of a real-world training plan that includes both high and low-intensity training.
 
-Beyond the prescribed sessions, we will allow up to four additional hours of low-intensity training per week (can also be runs or swims).
+Beyond the prescribed sessions, we also allow up to four additional hours of low-intensity training per week (can also be runs or swims).
 
-I appreciate that this study will require a big commitment from you and know that you will get a lot from it. The training program is designed to make you fitter over the 3-week period, which will be measured pre- and post-training with VO2max (a measure of your overall aerobic capacity), 30-min time-trial power, and muscle biopsy (which will show us how things inside your muscle respond to the training). We are also interested in seeing how things like fat oxidation and your ventilatory thresholds are influenced by the diet-training interaction.
+I appreciate that this study will require a big commitment and know that participants will get a lot from it. The training program is designed to make you fitter over the 3-week period, which will be measured pre- and post-training with VO2max (a measure of your overall aerobic capacity), 30-min time-trial power, and muscle biopsy (which will show us how things inside your muscle respond to the training). We are also interested in seeing how things like fat oxidation and your ventilatory thresholds are influenced by what you eat.
 
-To be eligible you’d need to be a male cyclist or triathlete, between 18-55 years old and currently training 8-12 hours per week. As an aside, we do have two other studies currently going at AUT looking for women.
+To be eligible you’d need to be a male cyclist or triathlete, between 18-55 years old and currently training 8-12 hours per week (we do have two other studies currently going at AUT looking for women).
 
-If this sounds interesting to you, please reach out to me for more info at jrothsch@aut.ac.nz
+**If this sounds interesting to you, please reach out for more info at jrothsch@aut.ac.nz**
 
 
 

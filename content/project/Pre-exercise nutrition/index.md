@@ -23,24 +23,22 @@ url_video: ""
 
 **What should I eat before training?**
 
-To study what cyclists should eat before interval training sessions, and how it affects their training adaptations, we are looking for cyclists to participate in a study at AUT Millennium on Auckland's north shore!
+To study what cyclists should eat before steady-state endurance training sessions, and how it affects their training adaptations, we are looking for cyclists to participate in a study at AUT Millennium on Auckland's north shore!
 
 There is surprisingly little research in trained cyclists looking at things like fed vs. fasted training and how that affects your training adaptations.
 
-During the 3-week block of high-intensity training, you will be randomly assigned to one of three pre-exercise nutrition groups - a carbohydrate-rich breakfast (e.g. bread, jam, and sports drink), a protein-rich breakfast (e.g. protein powder and peanut butter), or training in the overnight-fasted state. This will be consumed before each of the in-lab interval training sessions.
+During the 3-week block of training, you will be randomly assigned to one of three pre-exercise nutrition groups - a carbohydrate-rich breakfast (e.g. bread, jam, and sports drink), a protein-rich breakfast (e.g. protein powder and peanut butter), or training in the overnight-fasted state. This will be consumed before each of the in-lab interval training sessions.
 
-**The study is six weeks in total, which includes 16 visits to AUT Millennium.**
+**The study is six weeks in total, which includes 13 visits to AUT Millennium.**
 
 **Week 1 (pre-testing)**: Two visits (VO2max test and time-trial)<br>
 **Week 2 (pre-testing)**: Two visits (Muscle biopsy and time-trial)<br>
-**Weeks 3-5 (training block)**: Three interval training sessions per week for three weeks<br>
+**Weeks 3-5 (training block)**: Two interval training sessions per week for three weeks<br>
 **Week 6 (post-testing)**: Three visits (VO2max test, muscle biopsy, and time-trial)<br>
 
-All food eaten prior to exercise sessions will be provided for the entire study period.
+**All food eaten before and during exercise sessions will be provided for the entire study period.**
 
-You will also have three prescribed low-intensity training sessions per week, which you can do on your own (and send me the .fit file) or in the lab. Before these sessions you will be given a standardized breakfast to consume. 
-
-This way, we can isolate the effects of the various pre-exercise nutrition choices on interval training, but in the context of a real-world training plan that includes both high and low-intensity training.
+In addition to the two in-lab training sessions each week, you will also have four prescribed low-intensity training sessions which you can do on your own (and send me the .fit file). This way, we can isolate the effects of the various pre-exercise nutrition choices on endurance training, but in the context of a real-world training plan that includes both high and low-intensity training.
 
 Beyond the prescribed sessions, we also allow up to four additional hours of low-intensity training per week (these can also be runs or swims).
 

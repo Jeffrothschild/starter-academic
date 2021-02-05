@@ -23,7 +23,7 @@ slides: ""
 summary: A case report of an elite ultra-endurance cyclist, who was the winner and course record holder of 2 distinct races within a 4-month span: a 24-hour solo cycling race (Bike Sebring 24 h) and a 2-man team multiday race (RAAM). 
 tags:
 - Source Themes
-title: Racing and Training Physiology of an Elite Ultra-Endurance Cyclist: Case Study of 2 Record-Setting Performances
+title: Racing and Training Physiology of an Elite Ultra-Endurance Cyclist - Case Study of 2 Record-Setting Performances
 url_code: ""
 url_dataset: ""
 url_pdf: ""

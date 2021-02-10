@@ -20,7 +20,8 @@ url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=Pq7YjaJFAyE"
 ---
-
+<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=Pq7YjaJFAyE" target="_blank"><img class="aligncenter size-large wp-image-2335" src="https://www.eatsleep.fit/wp-content/uploads/video-screen.jpg" alt="" width="“389”" height="“219”" data-verified="redactor"></a>
+		
 **What should I eat before training?**
 
 To study what cyclists should eat before steady-state endurance training sessions, and how it affects their training adaptations, we are looking for cyclists to participate in a study at AUT Millennium on Auckland's north shore!

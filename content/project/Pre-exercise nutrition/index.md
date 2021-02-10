@@ -18,7 +18,7 @@ title: Effects of pre-exercise nutrition on adaptations to endurance training
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=Pq7YjaJFAyE"
 ---
 
 **What should I eat before training?**

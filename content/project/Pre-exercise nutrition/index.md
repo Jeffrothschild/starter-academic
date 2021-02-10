@@ -20,7 +20,7 @@ url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=Pq7YjaJFAyE"
 ---
-<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=Pq7YjaJFAyE" target="_blank"><img class="aligncenter size-large wp-image-2335" src="https://www.eatsleep.fit/wp-content/uploads/video-screen.jpg" alt="" width="“389”" height="“219”" data-verified="redactor"></a>
+<a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=Pq7YjaJFAyE" target="_blank"><img class="aligncenter size-large wp-image-2335" src="https://www.eatsleep.fit/wp-content/uploads/video-screen.jpg" alt="" width="“506”" height="“285”" data-verified="redactor"></a>
 		
 **What should I eat before training?**
 
